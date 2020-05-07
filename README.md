@@ -23,18 +23,18 @@ C:\Steam\userdata\ Account Id \730\local\
 Congratz! You have successfully installed Shadoweee's Exec Ecosystem!
 
 ## Avaiable Plugins (arleady provided in the package):
- *ProCfg* - Databse of Professional players' crosshairs and viewmodels with handy menu to change it mid game.
-   └─ ProCrosshairs
-   └─ ProViewmodels
+* *ProCfg* - Databse of Professional players' crosshairs and viewmodels with handy menu to change it mid game.
+   - ProCrosshairs
+   - ProViewmodels
 
-*ShadREC* - Config database to help You record demos in CS:GO
-  └─ DemoRecorder - basic recording config.
-  └─ HLAEsupport - [Half LifeL Advanced Effects](https://github.com/advancedfx/advancedfx/) configs to help You speed up moviemaking process.
-  └─ Misc - Random stuff, like resolution changer.
+* *ShadREC* - Config database to help You record demos in CS:GO
+  - DemoRecorder - basic recording config.
+  - HLAEsupport - [Half LifeL Advanced Effects](https://github.com/advancedfx/advancedfx/) configs to help You speed up moviemaking process.
+  - Misc - Random stuff, like resolution changer.
   
-*ServerOperator* - Allows You to control the dedicated server / localhost with ASCII menu.
+* *ServerOperator* - Allows You to control the dedicated server / localhost with ASCII menu.
 
-*Shadoweee* - Catalog of execs for Shadoweee and his frens.
+* *Shadoweee* - Catalog of execs for Shadoweee and his frens.
 
 ## Tutorials to come
 You could visit my YouTube [channel](http://youtube.com/c/Shadoweee/) I guess.
