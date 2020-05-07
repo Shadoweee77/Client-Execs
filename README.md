@@ -31,7 +31,7 @@ Congratz! You have successfully installed Shadoweee's Exec Ecosystem!
 
 * **ShadREC** - Config database to help You record demos in CS:GO
   - DemoRecorder - basic recording config.
-  - HLAEsupport - [Half LifeL Advanced Effects](https://github.com/advancedfx/advancedfx/) configs to help You speed up moviemaking process.
+  - HLAEsupport - [Half Life Advanced Effects](https://github.com/advancedfx/advancedfx/) configs to help You speed up moviemaking process.
   - Misc - Random stuff, like resolution changer.
   
 * **ServerOperator** - Allows You to control the dedicated server / localhost with ASCII menu.
