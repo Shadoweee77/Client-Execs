@@ -1,0 +1,44 @@
+//////////////////////////////////////////////
+//                                          //
+//   GameModes_Server create by SRCDS.pro   //
+//                                          //
+//  Contact www: https://srcds.pro/contact  //
+//  Contact email: support@srcds.pro        //
+//                                          //
+//////////////////////////////////////////////                                            
+
+"Gamemodes_Server.txt"
+{
+	"gameTypes"
+	{
+		"classic"
+		{
+			"gameModes"
+			{
+				"competitive"
+				{
+					"maxplayers" "10"
+					"exec"
+					{
+						"exec" "custom_convar.cfg"
+					}
+					"convars"
+					{
+						"sv_contact" "support@srcds.pro"
+						"sv_server_graphic1" "cfg/custom_srcds.cfg"
+						"sv_tags" "srcds.pro stable secure unddosable"
+						"motdfile" "motd.txt"
+						"sv_disable_motd" "0"
+					}
+				}
+			}
+		}
+	}
+	"mapgroups"
+	{
+		"mg_srcds"
+		{
+			"name" "mg_srcds"
+		}
+	}
+}
