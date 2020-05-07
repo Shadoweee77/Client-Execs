@@ -18,7 +18,9 @@ C:\Steam\userdata\ Account Id \730\local\
 -console -exec autoexec
 ```
  Close the window.
+ 
 6. Launch Counter Strike and let it load. After that close the game and launch it again.
+
 7. Follow the instruction printed into console! 
 Congratz! You have successfully installed Shadoweee's Exec Ecosystem!
 
